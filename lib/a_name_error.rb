@@ -1,4 +1,4 @@
 "hello world"
 
 hello_world
-puts ""
+puts "hello world"
